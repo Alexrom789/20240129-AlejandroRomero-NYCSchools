@@ -1,0 +1,8 @@
+/* Use Tailwindscss for intuitive and cleaner inline styles */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+
